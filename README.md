@@ -16,7 +16,8 @@ Specifically, you may and are encouraged to use unit-testing libraries and build
 Please include a brief explanation of your design and assumptions, along with your code, as well as detailed instructions to run your application.
 <br />
 <br />
-Problem : Mars Rover
+Problem : <br />
+Mars Rover<br />
  
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars.<br />
 This plateau, which is curiously rectangular, must be navigated by the rovers so that their on-board cameras can get a complete view of the surrounding terrain to send back to Earth.
