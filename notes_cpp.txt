@@ -1,0 +1,24 @@
+C++:
+https://www.youtube.com/watch?v=ILTojAwaCh0&ab_channel=SimonAyers
+
+Qt:
+https://doc.qt.io/qt-5/qtcharts-linechart-example.html
+https://programmerclick.com/article/70181828212/
+https://programmerclick.com/article/682168321/
+https://riptutorial.com/qt/example/26119/multi-window-signal-slot-connection
+
+Design Patterns:
+https://stackoverflow.com/questions/137975/what-are-drawbacks-or-disadvantages-of-singleton-pattern
+
+JSON:
+http://www.objgen.com/json?demo=true
+
+
+------------------------------------------------------------------------------------------------------
+JAVA:
+
+
+------------------------------------------------------------------------------------------------------
+PYTHON:
+https://fastapi.tiangolo.com/tutorial/first-steps/
+https://stackoverflow.com/questions/19822211/qt-parsing-json-using-qjsondocument-qjsonobject-qjsonarray
