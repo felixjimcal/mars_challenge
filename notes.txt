@@ -1,3 +1,19 @@
+EXERCISE:
+Rovers -> Object (move, turning, actual_position, x, y, h, )
+Plateau = movemnt area -> ¿static Class?, topX, topY)
+Position and location = two digits and letter (0,0, N) = bottom, left, North
+M = MOVE, one grid
+L = LEFT turning on same grid point
+R = RIGHT turning, on same grid point
+
+Multiple Rovers
+Input, first line for plateau
+Two next, rover
+
+Posible objects:
+Rover, Plateau, Inputer
+
+------------------------------------------------------------------------------------------------------
 C++:
 https://www.youtube.com/watch?v=ILTojAwaCh0&ab_channel=SimonAyers
 
