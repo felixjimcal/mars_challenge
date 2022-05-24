@@ -12,9 +12,6 @@ Two next, rover
 
 Posible objects:
 Rover, Plateau
-
-
-
 ------------------------------------------------------------------------------------------------------
 C++:
 https://www.youtube.com/watch?v=ILTojAwaCh0&ab_channel=SimonAyers
@@ -30,11 +27,8 @@ https://stackoverflow.com/questions/137975/what-are-drawbacks-or-disadvantages-o
 
 JSON:
 http://www.objgen.com/json?demo=true
-
-
 ------------------------------------------------------------------------------------------------------
 JAVA:
-
 
 ------------------------------------------------------------------------------------------------------
 PYTHON:
