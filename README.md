@@ -54,22 +54,5 @@ Expected Output:<br />
 5 1 E<br />
 
 <br />
-<br />
-<br />
-Notes:
-<br />
-<br />
-C++:<br />
-https://google.github.io/googletest/quickstart-cmake.html<br />
-https://www.youtube.com/watch?v=16FI1-d2P4E&ab_channel=JetBrainsTV<br />
-<br />
-<br />
-Python:<br />
-<br />
-<br />
-<br />
-<br />
-Java:<br />
-<br />
-<br />
-<br />
+
+
