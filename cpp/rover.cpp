@@ -1,4 +1,5 @@
 #include "rover.h"
+#include "Plateau.h"
 
 void Rover::TurnLeft()
 {
@@ -12,16 +13,16 @@ void Rover::TurnRight()
 
 void Rover::MoveForward()
 {
-    if(cardinal_orientation == North){
+    if(cardinal_orientation == North and axisY < plateau.topY){
         axisY++;
     }
-    else if(cardinal_orientation == South){
+    else if(cardinal_orientation == South and axisY > 0){
         axisY--;
     }
-    else if(cardinal_orientation == East){
+    else if(cardinal_orientation == East and axisX < plateau.topX){
         axisX++;
     }
-    else if(cardinal_orientation == West){
+    else if(cardinal_orientation == West and axisX > 0){
         axisX--;
     }
 }
