@@ -15,7 +15,7 @@ FetchContent_Declare(
 set(gtest_force_shared_crt ON CACHE BOOL "" FORCE)
 FetchContent_MakeAvailable(googletest)
 
-add_executable(cpp main.cpp simplemath.cpp)
+add_executable(cpp main.cpp rover.cpp)
 
 enable_testing()
 

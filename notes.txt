@@ -11,7 +11,9 @@ Input, first line for plateau
 Two next, rover
 
 Posible objects:
-Rover, Plateau, Inputer
+Rover, Plateau
+
+
 
 ------------------------------------------------------------------------------------------------------
 C++:
