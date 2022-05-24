@@ -15,6 +15,11 @@ Rover, Plateau
 ------------------------------------------------------------------------------------------------------
 C++:
 https://www.youtube.com/watch?v=ILTojAwaCh0&ab_channel=SimonAyers
+https://www.delftstack.com/es/howto/cpp/cpp-split-string-by-space/
+https://github.com/google/googletest/blob/main/googletest/samples/sample2_unittest.cc
+https://github.com/google/googletest/tree/main/googletest/samples
+https://www.youtube.com/watch?v=16FI1-d2P4E
+https://m.cplusplus.com/doc/tutorial/structures/
 
 Qt:
 https://doc.qt.io/qt-5/qtcharts-linechart-example.html
