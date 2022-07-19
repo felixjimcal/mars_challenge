@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 7.0.1, 2022-05-24T13:13:15. -->
+<!-- Written by QtCreator 7.0.2, 2022-07-19T10:56:12. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{dee903d2-81dd-4e78-9a8e-f914d00f7b47}</value>
+  <value type="QByteArray">{5494ee35-9604-48d4-9498-706849c2e793}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -68,17 +68,17 @@
     <value type="bool" key="AutoTest.Framework.QtTest">true</value>
    </valuemap>
    <valuemap type="QVariantMap" key="AutoTest.CheckStates">
-    <value type="Qt::CheckState" key="1@D:/Felix/Code/thoughtworks/mars_challenge/cpp/hello_test.cc:ExpectedOutput1">Checked</value>
-    <value type="Qt::CheckState" key="1@D:/Felix/Code/thoughtworks/mars_challenge/cpp/hello_test.cc:ExpectedOutput2">Checked</value>
-    <value type="Qt::CheckState" key="1@D:/Felix/Code/thoughtworks/mars_challenge/cpp/hello_test.cc:MoveForwardEast">Checked</value>
-    <value type="Qt::CheckState" key="1@D:/Felix/Code/thoughtworks/mars_challenge/cpp/hello_test.cc:MoveForwardNoth">Checked</value>
-    <value type="Qt::CheckState" key="1@D:/Felix/Code/thoughtworks/mars_challenge/cpp/hello_test.cc:Rover">Checked</value>
-    <value type="Qt::CheckState" key="1@D:/Felix/Code/thoughtworks/mars_challenge/cpp/hello_test.cc:TouchingEdgeX">Checked</value>
-    <value type="Qt::CheckState" key="1@D:/Felix/Code/thoughtworks/mars_challenge/cpp/hello_test.cc:TouchingEdgeXTop">Checked</value>
-    <value type="Qt::CheckState" key="1@D:/Felix/Code/thoughtworks/mars_challenge/cpp/hello_test.cc:TouchingEdgeY">Checked</value>
-    <value type="Qt::CheckState" key="1@D:/Felix/Code/thoughtworks/mars_challenge/cpp/hello_test.cc:TouchingEdgeYTop">Checked</value>
-    <value type="Qt::CheckState" key="1@D:/Felix/Code/thoughtworks/mars_challenge/cpp/hello_test.cc:TurnLeft">Checked</value>
-    <value type="Qt::CheckState" key="1@D:/Felix/Code/thoughtworks/mars_challenge/cpp/hello_test.cc:TurnRight">Checked</value>
+    <value type="Qt::CheckState" key="1@D:/Felix/Code/mars_challenge/cpp/hello_test.cc:ExpectedOutput1">Checked</value>
+    <value type="Qt::CheckState" key="1@D:/Felix/Code/mars_challenge/cpp/hello_test.cc:ExpectedOutput2">Checked</value>
+    <value type="Qt::CheckState" key="1@D:/Felix/Code/mars_challenge/cpp/hello_test.cc:MoveForwardEast">Checked</value>
+    <value type="Qt::CheckState" key="1@D:/Felix/Code/mars_challenge/cpp/hello_test.cc:MoveForwardNoth">Checked</value>
+    <value type="Qt::CheckState" key="1@D:/Felix/Code/mars_challenge/cpp/hello_test.cc:RoverTest">Checked</value>
+    <value type="Qt::CheckState" key="1@D:/Felix/Code/mars_challenge/cpp/hello_test.cc:TouchingEdgeX">Checked</value>
+    <value type="Qt::CheckState" key="1@D:/Felix/Code/mars_challenge/cpp/hello_test.cc:TouchingEdgeXTop">Checked</value>
+    <value type="Qt::CheckState" key="1@D:/Felix/Code/mars_challenge/cpp/hello_test.cc:TouchingEdgeY">Checked</value>
+    <value type="Qt::CheckState" key="1@D:/Felix/Code/mars_challenge/cpp/hello_test.cc:TouchingEdgeYTop">Checked</value>
+    <value type="Qt::CheckState" key="1@D:/Felix/Code/mars_challenge/cpp/hello_test.cc:TurnLeft">Checked</value>
+    <value type="Qt::CheckState" key="1@D:/Felix/Code/mars_challenge/cpp/hello_test.cc:TurnRight">Checked</value>
    </valuemap>
    <value type="int" key="AutoTest.RunAfterBuild">0</value>
    <value type="bool" key="AutoTest.UseGlobal">true</value>
@@ -103,9 +103,9 @@
   <variable>ProjectExplorer.Project.Target.0</variable>
   <valuemap type="QVariantMap">
    <value type="QString" key="DeviceType">Desktop</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 6.3.0 MinGW 64-bit</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 6.3.0 MinGW 64-bit</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt6.630.win64_mingw_kit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 6.3.1 MinGW 64-bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 6.3.1 MinGW 64-bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt6.631.win64_mingw_kit</value>
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveRunConfiguration">1</value>
@@ -118,7 +118,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\Felix\Code\thoughtworks\mars_challenge\build-cpp-Desktop_Qt_6_3_0_MinGW_64_bit-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\Felix\Code\mars_challenge\build-cpp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -164,7 +164,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\Felix\Code\thoughtworks\mars_challenge\build-cpp-Desktop_Qt_6_3_0_MinGW_64_bit-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\Felix\Code\mars_challenge\build-cpp-Desktop_Qt_6_3_1_MinGW_64_bit-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -208,7 +208,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\Felix\Code\thoughtworks\mars_challenge\build-cpp-Desktop_Qt_6_3_0_MinGW_64_bit-RelWithDebInfo</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\Felix\Code\mars_challenge\build-cpp-Desktop_Qt_6_3_1_MinGW_64_bit-RelWithDebInfo</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -252,7 +252,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\Felix\Code\thoughtworks\mars_challenge\build-cpp-Desktop_Qt_6_3_0_MinGW_64_bit-MinSizeRel</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\Felix\Code\mars_challenge\build-cpp-Desktop_Qt_6_3_1_MinGW_64_bit-MinSizeRel</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -316,7 +316,7 @@
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Felix/Code/thoughtworks/mars_challenge/build-cpp-Desktop_Qt_6_3_0_MinGW_64_bit-Debug</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Felix/Code/mars_challenge/build-cpp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -333,7 +333,7 @@
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Felix/Code/thoughtworks/mars_challenge/build-cpp-Desktop_Qt_6_3_0_MinGW_64_bit-Debug</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Felix/Code/mars_challenge/build-cpp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">2</value>
   </valuemap>
